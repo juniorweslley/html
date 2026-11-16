@@ -1,0 +1,48 @@
+html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>O que é Inteligência Artificial?</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 0 20px;
+            background-color: #f9f9f9;
+        }
+        main {
+            background-color: #ffffff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #1a73e8;
+            margin-top: 0;
+        }
+        p {
+            margin-bottom: 16px;
+        }
+    </style>
+</head>
+<body>
+
+    <main>
+        <h1>O Poder da Inteligência Artificial</h1>
+        
+        <p>
+            A Inteligência Artificial (IA) é um ramo da ciência da computação dedicado a criar sistemas capazes de realizar tarefas que normalmente exigem inteligência humana. Isso inclui o aprendizado com dados, o reconhecimento de padrões, a compreensão de linguagem natural e a tomada de decisões.
+        </p>
+
+        <p>
+            Hoje, a IA está presente em diversas atividades do nosso cotidiano, como nos assistentes virtuais de smartphones, nas recomendações de filmes em plataformas de streaming e nos diagnósticos médicos avançados. Com a evolução da IA generativa, essas ferramentas também passaram a criar textos, imagens e códigos de programação em segundos, transformando a maneira como trabalhamos e nos comunicamos.
+        </p>
+    </main>
+
+</body>
+</html>
